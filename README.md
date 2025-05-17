@@ -12,4 +12,4 @@ _Combining KDE with pre-configuration and system tweaks_
 ---
 
 ## No desktop
-### [K2_TinyPine](https://github.com/h8d13/LKFS/)
+### [K2_OS-TinyPine](https://github.com/h8d13/LKFS/)
