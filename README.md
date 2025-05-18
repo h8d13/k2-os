@@ -8,7 +8,5 @@
 
 ### [K2_OS-Arch](https://github.com/h8d13/KAES-ARCH)
 
----
-
 ## No desktop
 ### [K2_OS-TinyPine](https://github.com/h8d13/LKFS/)
