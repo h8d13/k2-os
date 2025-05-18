@@ -1,5 +1,4 @@
 # K2-OS - Cae-Sura
-_Combining KDE with pre-configuration and system tweaks_
 
 ## Systems
 ### [K2_OS-Alpine-x86_64](https://github.com/h8d13/k2-alpine)
